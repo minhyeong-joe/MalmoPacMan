@@ -37,3 +37,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 6. then git add, commit, push
 
 ** Feel free to create own branch if needed. Hopefully we will split up the section so that we are not modifying the same code block.
+
+Usefull docs/references:
+https://angular.io/docs
+https://angular.io/cli
+https://getbootstrap.com/docs/4.4/getting-started/introduction/
