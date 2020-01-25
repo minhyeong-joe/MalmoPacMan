@@ -1,5 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-import { ActivatedRoute } from '@angular/router';
 
 @Component({
   selector: 'app-navbar',
@@ -8,12 +7,8 @@ import { ActivatedRoute } from '@angular/router';
 })
 export class NavbarComponent implements OnInit {
 
-  constructor(private route: ActivatedRoute) { }
+  constructor() { }
 
-  ngOnInit() {
-    this.route.paramMap.subscribe(params => {
-      console.log(params);
-    });
-  }
+  ngOnInit() {}
 
 }
