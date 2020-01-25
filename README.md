@@ -25,3 +25,15 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+# TO TEAM MEMBERS!!!
+
+1. npm install angular and angular cli.
+2. git pull
+3. npm install to install dependencies
+3-1. in project folder, `npm start` or `ng serve` to run angular app locally. (if browser does not automatically open up, then manually navigate to `localhost:4200`
+4. Use whaterver text editors/IDE to edit html, scss, ts files.
+5. `ng build --prod --baseHref="https://minhyeong-joe.github.io/MalmoPacMan/"` to build deployable
+6. then git add, commit, push
+
+** Feel free to create own branch if needed. Hopefully we will split up the section so that we are not modifying the same code block.
