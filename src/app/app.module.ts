@@ -8,6 +8,7 @@ import { OverviewComponent } from './overview/overview.component';
 import { ProposalComponent } from './proposal/proposal.component';
 import { ProgressComponent } from './progress/progress.component';
 import { FinalComponent } from './final/final.component';
+import { BannerComponent } from './banner/banner.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { FinalComponent } from './final/final.component';
     OverviewComponent,
     ProposalComponent,
     ProgressComponent,
-    FinalComponent
+    FinalComponent,
+    BannerComponent
   ],
   imports: [
     BrowserModule,

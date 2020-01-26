@@ -1,0 +1,22 @@
+header.banner {
+  background-image: url(../../assets/banner.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  .overlay {
+    padding: 120px 0;
+    margin: 0 50px;
+    user-select: none;
+  }
+
+  img {
+    height: 50px;
+    display: inline-block;
+    margin-bottom: 10px;
+  }
+
+  h1 {
+    color: white;
+  }
+}
